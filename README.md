@@ -1,4 +1,4 @@
-# review-classifiaction
+# review-classification
 Emotion classification on book reviews
 
 # Usage
@@ -14,3 +14,6 @@ Amazon book review data credits to <http://jmcauley.ucsd.edu/data/amazon/>.
 
 # Models used
 [Word2vec](https://en.wikipedia.org/wiki/Word2vec) and [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory).
+
+# Performance
+Precision: 0.944, Recall: 0.914, F1 score: 0.929
